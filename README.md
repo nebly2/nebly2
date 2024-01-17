@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ly</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate software developer from Texas</h3>
+
+- 🔭 I’m currently working on [LeetLadder](https://github.com/abuslang/LeetLadder/)
+
+- 🌱 I’m currently learning **Plasmo and TypeScript**
+
+- 📫 How to reach me **benjaminly123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
